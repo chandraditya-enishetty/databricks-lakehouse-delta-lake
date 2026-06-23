@@ -16,6 +16,8 @@
 ![Trips by day of week](dashboard_2.png)
 ![Top 15 pickup locations](dashboard_3.png)
 
+
+> **Live Dashboard:** [View on Databricks]([YOUR_DASHBOARD_URL](https://dbc-be55e7a5-d845.cloud.databricks.com/dashboardsv3/01f16e1c68e31dedbe2477287f08b396/published?o=7474659484999228))
 ---
 
 ## Architecture
